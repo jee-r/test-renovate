@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base",
+    "docker:enableMajor"
+  ],
+  "assignees": ["@jee-r"],
+  "dependencyDashboard": true
+
+}
